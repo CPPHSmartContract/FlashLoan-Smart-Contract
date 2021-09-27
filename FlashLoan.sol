@@ -37,7 +37,7 @@ contract InitiateFlashLoan {
 
     function() external payable {}
     
-    function checkAddress() public view returns(address) {
+    function checkOwnerAddress() public view returns(address) {
         return address(msg.sender);
     }
     
