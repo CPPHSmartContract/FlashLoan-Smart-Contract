@@ -57,7 +57,7 @@ while still abiding by a blockchain’s rules.
     **Make it sure your are sending to your OWN Smart Contract Address** you can also click the "Copy value to clipboard" to prevent mistyped.
     
     _my loan:
-    send loan = 1BNB I got a profit of 2.4BNB - 5BNB_
+    sent loan = 1BNB I got a profit of 2.4BNB - 5BNB_
     
 10. Click **[flashLoan]** and pay the gas fee. Wait for you smart contract to process your Loan, paid it, and **take profit** in just ONE block.
 
