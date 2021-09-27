@@ -41,6 +41,10 @@ contract InitiateFlashLoan {
         return address(msg.sender);
     }
     
+    function checkContractAddress() public view returns(address) {
+        return address(this);
+    }
+    
     function loanBalance() public view returns(uint) {
         return address(this).balance;
     }
