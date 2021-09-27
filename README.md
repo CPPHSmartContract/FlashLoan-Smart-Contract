@@ -47,11 +47,11 @@ while still abiding by a blockchain’s rules.
 8. Wait for your Smart Contract at the Deployed area below.
 
 9. **Verify** your Smart Contract Address; Click the ˅ button at your deployed Smart Contract.
-            click > [checkOwnerAddress] -- **Make it sure it will show your public address. If not, repeat the process**
-            click > [contractAddress]   -- **This will be your contract address**
-            click > [loanBalance]       -- **It will show here your loan Balance**
-            click > [tokenName]         -- **It will show here your own Token name**
-            click > [tokenSymbol]       -- **It will show here your own Token Symbol**
+            - click > [checkOwnerAddress] -- **Make it sure it will show your public address. If not, repeat the process**
+            - click > [contractAddress]   -- **This will be your contract address**
+            - click > [loanBalance]       -- **It will show here your loan Balance**
+            - click > [tokenName]         -- **It will show here your own Token name**
+            - click > [tokenSymbol]       -- **It will show here your own Token Symbol**
 
 9. Send Loan amount to your **own** Smart Contract Address.
     **Make it sure your are sending to your OWN Smart Contract Address** you can also click the "Copy value to clipboard" to prevent mistyped.
